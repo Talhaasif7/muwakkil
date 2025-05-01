@@ -1,0 +1,138 @@
+
+{
+  "common": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "newChat": "New Chat",
+    "greeting": "Hey, How are you?",
+    "startForFree": "Start for Free",
+    "learnMore": "Learn More",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "rememberMe": "Remember me",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create an account",
+    "haveAccount": "Already have an account?"
+  },
+  "chat": {
+    "sendMessage": "Send message",
+    "typeMessage": "Type a message...",
+    "thinking": "Thinking and analyzing your request...",
+    "searching": "Searching through knowledge base and preparing a response",
+    "actionLog": "Action Log",
+    "uploadedFile": "Uploaded file:",
+    "uploadedFiles": "Uploaded {count} files:",
+    "filesUploaded": "Files Uploaded",
+    "filesUploadedDesc": "{count} file(s) uploaded successfully.",
+    "bookmarked": "Bookmarked",
+    "bookmarkedDesc": "Message has been saved to your bookmarks.",
+    "feedbackReceived": "Feedback Received",
+    "feedbackReceivedDesc": "Thank you for your {type} feedback."
+  },
+  "sidebar": {
+    "newChat": "New Chat",
+    "myChats": "My Chats",
+    "knowledge": "Knowledge Base",
+    "bookmarks": "Bookmarks",
+    "findLawyer": "Find a Lawyer",
+    "account": "Account",
+    "pro": "Pro",
+    "signedOut": "Signed Out",
+    "signedOutDesc": "You have been signed out successfully",
+    "newChatStarted": "New Chat",
+    "newChatStartedDesc": "Started a new chat session"
+  },
+  "landing": {
+    "hero": {
+      "title": "Empowering founders with smart legal support in UAE",
+      "description": "Muwakkil makes UAE mainland legal compliance simple with AI-powered document review, generation, and expert legal advice."
+    },
+    "features": {
+      "title": "How Muwakkil Helps Your Business",
+      "consultationTitle": "Conversational Legal Help",
+      "consultationDesc": "Ask any legal question about UAE business law and get instant, accurate responses backed by Federal Law No. 32/2021 and DED regulations.",
+      "documentTitle": "Smart Document Review",
+      "documentDesc": "Upload contracts and legal documents to automatically flag non-compliant clauses and receive guidance on how to fix them.",
+      "creationTitle": "Jurisdiction-Specific Templates",
+      "creationDesc": "Generate legally compliant documents tailored to your specific business needs in Dubai Mainland, DIFC, or UAE Free Zones.",
+      "startUsing": "Start Using Muwakkil Today"
+    },
+    "footer": {
+      "about": "About Us",
+      "careers": "Careers",
+      "blog": "Blog",
+      "contact": "Contact",
+      "resources": "Resources",
+      "knowledgeBase": "Knowledge Base",
+      "templates": "Templates",
+      "faq": "FAQ",
+      "support": "Support",
+      "legal": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "disclaimer": "Disclaimer",
+      "cookie": "Cookie Policy",
+      "description": "AI-powered legal assistant for UAE startups and businesses.",
+      "rights": "All rights reserved."
+    }
+  },
+  "chatPrompts": {
+    "consultation": {
+      "title": "Professional Consultation",
+      "prompt1": "Is my company eligible for DIFC's government grants?",
+      "prompt2": "When is the recent tax refund dates?"
+    },
+    "documents": {
+      "title": "Examine Documents",
+      "prompt1": "Check if [upload documents] are correct",
+      "prompt2": "Tell me what should I change for [upload documents]"
+    },
+    "creation": {
+      "title": "Create Documents",
+      "prompt1": "Create an NDA that apply to Dubai's law",
+      "prompt2": "Fill a 2025 tax report document"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "mostPopular": "Most Popular",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for exploring",
+      "price": "Free",
+      "feature1": "10 legal questions per month",
+      "feature2": "3 document reviews",
+      "feature3": "Basic templates",
+      "ctaText": "Get Started"
+    },
+    "professional": {
+      "name": "Professional", 
+      "description": "For growing businesses",
+      "price": "199 AED",
+      "period": "/month",
+      "feature1": "Unlimited legal questions",
+      "feature2": "25 document reviews",
+      "feature3": "All templates",
+      "feature4": "Priority support",
+      "ctaText": "Subscribe Now"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For larger organizations",
+      "price": "Custom",
+      "feature1": "Everything in Professional",
+      "feature2": "Dedicated account manager",
+      "feature3": "API access",
+      "feature4": "Custom integration",
+      "ctaText": "Contact Sales"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say"
+  }
+}
